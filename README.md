@@ -18,7 +18,8 @@ Using these 10 enities we will design a detailed ER model of attributes followed
 
 # ER Model
 
-![image](https://github.com/Ryuga002/icc_database/assets/90711209/b7442aa9-c0c5-4dbd-b3d6-6ccadbbe2048)
+![image](https://github.com/Ryuga002/icc_database/assets/90711209/0f65a9de-5320-4674-b7b6-165bcdc7a1e5)
+
 
 #
 The [tables.txt](https://github.com/Ryuga002/icc_database/blob/main/icc_sample_data.txt) file contains the SQL script to create Tables.<br>
