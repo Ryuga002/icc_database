@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME,ROLE,TEAM_ID
+401,Virat Kohli,Right Handed Batsman,101
+402,Rohit Sharma,Right Handed Batsman,101
+403,Jasprit Bumrah,Right Arm Fast Bowler,101
+404,Joe Hoot,Right Handed Batsman,103
+405,Ravichandran Ashwin,off break Bowler,101
+406,Ashton Agar,"Slow Left Arm, Bowler",102
+407,David Warner,Left Handed Batsman,102
+408,Shaheen Afridi,Left Handed Batsman,106
+409,Rashid Khan,Leg Break Bowler,109
+410,Sikandar Raza,All Rounder,110
+411,Ben Stokes,All Rounder,103
+412,Nicholas Pooran,Wicket Keeper,105
+413,Maheesh Teekshana,off Break Bowler,107
+414,Shakib Al Hasan,All Rounder,108
+415,Wanindu Hasaranga,Leg Break Bowler,107
+416,Quinton De Cock,Wicket Keeper,104
+417,Steve Smith,Right Handed Batsman,102
+418,MS Dhoni,Wicket Keeper,101
+419,Babar Azam,Right Handed Batsman,106
