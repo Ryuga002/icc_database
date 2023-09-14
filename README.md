@@ -28,4 +28,5 @@ The [sample.txt](https://github.com/Ryuga002/icc_database/blob/main/tables.txt) 
 It is optional to add the sample data to the database.
 # 
 After running the script we can overview the entire database, the entire database consists of 10 entities with the following tables:<br>
-[output_overview]
+[output_overview](https://github.com/Ryuga002/icc_database/tree/f15976e16eabb968be12b273bd104c38a9293dd4/output_overview)
+These 10 csv files will provide a intutive idea of our designed database.
